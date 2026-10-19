@@ -1,0 +1,3 @@
+fastapi #framework to create apis in python
+uvicorn  # websever to host our API
+pydantic #data validation and settings management using python type annotationsv
